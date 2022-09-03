@@ -14,4 +14,4 @@
 
 2. [Tours](https://react-projects-2-tours.netlify.app/)
 3. [Reviews](https://react-projects-3-reviews.netlify.app/)
-4. Accordion -- Yet to be completed
+4. [Accordion](https://react-projects-4-accordion.netlify.app/)
