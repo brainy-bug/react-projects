@@ -8,9 +8,10 @@
 
 #### useState
 
-1. Birthday Reminder
+1. [Birthday Reminder](https://react-projects-1-birthday-reminder.netlify.app/)
 
 #### useEffect and Conditional Rendering
 
-2. Tours
-
+2. [Tours](https://react-projects-1-birthday-reminder.netlify.app/)
+3. [Reviews](https://react-projects-1-birthday-reminder.netlify.app/)
+4. Accordion -- Yet to be completed
