@@ -1,10 +1,24 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 // Import icons
-import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
+import { AiOutlineMinus, AiOutlinePlus } from "react-icons/ai";
 
-const Question = () => {
-  return <h2>question component</h2>;
+const Question = ({ q }) => {
+  const [isClosed, setIsClosed] = useState(true);
+
+  return (
+    <>
+      <article className="question">
+        <header>
+          <h4>{q.title}</h4>
+          <button className="btn" onClick={() => setIsClosed(!isClosed)}>
+            {isClosed ? <AiOutlinePlus /> : <AiOutlineMinus />}
+          </button>
+        </header>
+        {isClosed || <p>{q.info}</p>}
+      </article>
+    </>
+  );
 };
 
 export default Question;
