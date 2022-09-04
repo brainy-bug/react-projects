@@ -14,3 +14,4 @@
 3. [Reviews](https://react-projects-3-reviews.netlify.app/)
 4. [Accordion](https://react-projects-4-accordion.netlify.app/)
 5. [Menu](https://react-projects-5-menu.netlify.app/)
+5. [Tabs](https://react-projects-6-tabs.netlify.app/)
