@@ -54,7 +54,6 @@ function App() {
                   className={`job-btn ${index === i ? "active-btn" : null}`}
                   key={id}
                   onClick={() => {
-                    setIsActive(!isActive);
                     setIndex(i);
                   }}
                 >
