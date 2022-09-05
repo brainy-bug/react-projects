@@ -15,3 +15,4 @@
 4. [Accordion](https://react-projects-4-accordion.netlify.app/)
 5. [Menu](https://react-projects-5-menu.netlify.app/)
 6. [Tabs](https://react-projects-6-tabs.netlify.app/)
+7. [Slider](https://react-projects-7-slider.netlify.app/)
