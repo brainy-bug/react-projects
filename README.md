@@ -2,7 +2,7 @@
 
 #### Each project was done after learning some topics in React.
 
-## Corresponding Tutorial Topics with the project done.
+## Corresponding Tutorial Topics with the project done:-
 
 #### useState
 
@@ -20,3 +20,14 @@
 #### Forms
 
 8. Color Shades Generator
+
+#### useRef
+
+9. Navbar
+
+#### useReducer and useContext
+
+10. Stripe Menus
+11. Cart
+
+#### React Router
