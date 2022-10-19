@@ -27,7 +27,7 @@
 
 #### useReducer and useContext
 
-10. Stripe Menus
+10. Stripe Menus.
 
 #### React Router
 11. Cart
